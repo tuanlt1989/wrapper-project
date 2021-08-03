@@ -1,6 +1,0 @@
-module Pods_wrapper_project_wrapper_projectTests {
-  umbrella header "Pods-wrapper_project-wrapper_projectTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
