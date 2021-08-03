@@ -1,0 +1,6 @@
+module Pods_wrapper_project {
+  umbrella header "Pods-wrapper_project-umbrella.h"
+
+  export *
+  module * { export * }
+}

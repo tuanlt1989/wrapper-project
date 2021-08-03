@@ -1,0 +1,22 @@
+com/wrapper_project/ReactNativeFlipper.java
+ com.wrapper_project.ReactNativeFlipper
+ com.wrapper_project.ReactNativeFlipper$1
+ com.wrapper_project.ReactNativeFlipper$2
+ com.wrapper_project.ReactNativeFlipper$2$1
+com/wrapper_project/MainActivity.java
+ com.wrapper_project.MainActivity
+com/wrapper_project/FunctionNative.java
+ com.wrapper_project.FunctionNative
+com/wrapper_project/BuildConfig.java
+ com.wrapper_project.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/wrapper_project/JTextView.java
+ com.wrapper_project.JTextView
+com/wrapper_project/ComponentNative.java
+ com.wrapper_project.ComponentNative
+com/wrapper_project/CustomReactPackage.java
+ com.wrapper_project.CustomReactPackage
+com/wrapper_project/MainApplication.java
+ com.wrapper_project.MainApplication
+ com.wrapper_project.MainApplication$1
